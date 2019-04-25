@@ -1,0 +1,44 @@
+[class^=col-]{
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+
+.bg{
+    background:url('../images/contact.jpg') no-repeat;
+   }
+
+
+.first{
+padding-top: 30px;
+    background-color: black;
+    border: 0px;
+	height:800px;
+}
+.second{
+padding-top: 30px;
+    background-color:white;
+    border: 0px;
+	height:800px;
+}
+.navbar{
+
+
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+   
+}
+
+#title{
+    padding-left: 150px;
+}
+
+.a{
+    margin-top: 75px;
+    margin-left: 25px;
+}
+
+.container{
+    padding-top: 150px;
+}
